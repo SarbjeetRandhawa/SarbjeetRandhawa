@@ -25,4 +25,4 @@ I love code !
  
 ###  Projects
 
-Earthly :- Sustainable products -> <a href="https://sustainablestarterkit-sarbjeet.netlify.app/"> Link </a>
+ <a href="https://sustainablestarterkit-sarbjeet.netlify.app/"> Earthly :- Sustainable products</a>
