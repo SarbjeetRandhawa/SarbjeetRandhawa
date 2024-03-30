@@ -25,10 +25,11 @@ I love code !
  
 ### Frontend Projects
 
- <a href="https://sustainablestarterkit-sarbjeet.netlify.app/"> Earthly :- Sustainable products</a>
- <a href="https://golden-capybara-92ba33.netlify.app/home"> iDonate :- Online Blood Donation </a>
- <a href="https://lustrous-puffpuff-e49d0b.netlify.app/"> 3D Portfolio</a>
- <a href="https://inquisitive-shortbread-438a77.netlify.app/"> Dice Game</a>
+ <a href="https://sustainablestarterkit-sarbjeet.netlify.app/"> Earthly :- Sustainable products</a> .
+
+ <a href="https://golden-capybara-92ba33.netlify.app/home"> iDonate :- Online Blood Donation </a>.
+ <a href="https://lustrous-puffpuff-e49d0b.netlify.app/"> 3D Portfolio</a>.
+ <a href="https://inquisitive-shortbread-438a77.netlify.app/"> Dice Game</a>.
 
  
  
