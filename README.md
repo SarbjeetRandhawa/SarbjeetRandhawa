@@ -8,7 +8,7 @@ I love code !
 
 * 🌍  I'm based in Chandiagrh
 * ✉️  You can contact me at [Sarbjeetrandhawa081@gmail.com](mailto:Sarbjeetrandhawa081@gmail.com)
-* 🧠  I'm learning React,js
+* 🧠  I'm learning React.js
 * 🤝  I'm open to collaborating on Interesting Frontend projects
 
 ### Skills
