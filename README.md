@@ -28,8 +28,7 @@ I love code !
 * <a href="https://chimerical-tiramisu-f79821.netlify.app"> Weather App</a>
 * <a href="https://inquisitive-shortbread-438a77.netlify.app/"> Dice Game</a>
 * <a href="https://lustrous-puffpuff-e49d0b.netlify.app/"> 3D Portfolio</a>
-* <a href="
-https://inspiring-daifuku-a3a2fa.netlify.app/"> 3D Portfolio</a>
+* <a href="https://inspiring-daifuku-a3a2fa.netlify.app/"> WikiScroll</a>
 
 
 ### Frontend Projects
