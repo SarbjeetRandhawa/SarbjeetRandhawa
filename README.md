@@ -8,7 +8,7 @@ I love code !
 
 * 🌍  I'm based in Chandiagrh
 * ✉️  You can contact me at [Sarbjeetrandhawa081@gmail.com](mailto:Sarbjeetrandhawa081@gmail.com)
-* 🧠  I'm learning React.js
+* 🧠  I'm learning MERN Stack
 * 🤝  I'm open to collaborating on Interesting Frontend projects
 
 ### Skills
@@ -36,7 +36,9 @@ I love code !
 * <a href="https://sustainablestarterkit-sarbjeet.netlify.app/"> Earthly :- Sustainable products</a>
 * <a href="https://golden-capybara-92ba33.netlify.app/home"> iDonate :- Online Blood Donation </a>
 
+### MERN Projects
 
+* <a href="https://note-app-euot.onrender.com/"> Note Taking App</a>
 
 
 
