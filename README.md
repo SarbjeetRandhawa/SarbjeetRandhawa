@@ -19,7 +19,8 @@ I love code !
  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/UQMq5X_FGEjVrWwNslQRy-t8nF4S52z8XVrIZZWZanE/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi9kL2QyL0Nf/U2hhcnBfTG9nb18y/MDIzLnN2Zy8yNTBw/eC1DX1NoYXJwX0xv/Z29fMjAyMy5zdmcu/cG5n" width="36" height="36" alt="Figma" /></a>
  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/q3vm0MQNg5U17IDN4du-Lp1rGsxh-k6K549J5bPcxhY/rs:fit:200:200:1:0/g:ce/aHR0cHM6Ly95dDMu/Z29vZ2xldXNlcmNv/bnRlbnQuY29tL3RL/dVpPVHotTmpCOUtB/QTgwekpJeDBTdkdm/TDNfdDlwdUI0QXlP/YlNOekk5TEJ4OW01/a25sc2JGbTdPMklv/MGFwX0t6R0ptVTR3/PXM5MDAtYy1rLWMw/eDAwZmZmZmZmLW5v/LXJq" width="36" height="36" alt="Figma" /></a>
- <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"><img src="https://www.python.org/static/img/python-logo.png" width="36" height="36" alt="Figma" /></a>
+ <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="36" height="36" alt="Figma" /></a>
+ 
 </p>
 
 
